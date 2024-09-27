@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋🏻 Hi there! I'm [Mohammed SHAMKHI](https://thechamkhi.pythonanywhere.com)
 
-<!--
-**theshamkhi/theshamkhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m an applied mathematics graduate with a strong programming background. I bring together my mathematical expertise, coding skills, and creativity to create unique and engaging works of art.
 
-Here are some ideas to get you started:
+Check out my portfolio [here](https://thechamkhi.pythonanywhere.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🐙 What I bring to the table
+
+### **Software Development:**
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,django,python,git,c,cpp" />
+  </a>
+</p>
+
+### **Mathematical Expertise:**
+
+- **Problem Solving:** Efficient solutions to complex problems.
+- **Analytical Thinking:** Data, algorithms, and insights.
+- **Deductive Reasoning:** From observations to conclusions.
+
+# 🤙🏻 Feel free to reach out!
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/theshamkhi)&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=theshamkhi1@gmail.com)
