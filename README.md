@@ -9,7 +9,7 @@ Check out my portfolio [here](https://thechamkhi.pythonanywhere.com).
 ### **Software Development:**
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,django,python,git,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,django,python,mysql,git,c,cpp" />
   </a>
 </p>
 
