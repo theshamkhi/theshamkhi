@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I’m an applied mathematics graduate with a strong programming background. I bring together my mathematical expertise, coding skills, and creativity to create unique and engaging works of art.
 
-Check out my portfolio [here](https://thechamkhi.pythonanywhere.com).
-
 # 🐙 What I bring to the table
 
 ### **Software Development:**
