@@ -1,4 +1,4 @@
-# 👋🏻 Hi there! I'm [Mohammed SHAMKHI](https://thechamkhi.pythonanywhere.com)
+# 👋🏻 Hi there! I'm Mohammed SHAMKHI
 
 Welcome to my GitHub profile! I’m an applied mathematics graduate with a strong programming background. I bring together my mathematical expertise, coding skills, and creativity to create unique and engaging works of art.
 
