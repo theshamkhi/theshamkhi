@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m an applied mathematics graduate with a stron
 ### **Software Development:**
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php,laravel,python,django,mysql,postgres,postman,git,github,figma,bootstrap,tailwind,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php,laravel,python,django,docker,mysql,postgres,postman,git,github,figma,bootstrap,tailwind,c,cpp" />
   </a>
 </p>
 
