@@ -6,6 +6,7 @@ I’m an <strong>Applied Mathematics graduate</strong> with a strong <strong>pro
 By blending <strong>mathematical expertise</strong>, <strong>coding skills</strong>, and <strong>creativity</strong>, I strive to craft <strong>unique and engaging works of art</strong> through code.
 </em>
 
+---
 
 ## 🐙 What I Bring to the Table
 
@@ -21,14 +22,7 @@ By blending <strong>mathematical expertise</strong>, <strong>coding skills</stro
 - 📊 <strong>Analytical Thinking:</strong> <em>Data, algorithms, and insights.</em>  
 - 🔍 <strong>Deductive Reasoning:</strong> <em>From observations to conclusions.</em>
 
-
-## 📈 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theshamkhi&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshamkhi&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
+---
 
 ## 🤙🏻 Let's Connect
 
@@ -47,5 +41,8 @@ By blending <strong>mathematical expertise</strong>, <strong>coding skills</stro
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theshamkhi&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=theshamkhi&color=blueviolet&style=for-the-badge" 
+    alt="Profile Views" 
+  />
 </p>
