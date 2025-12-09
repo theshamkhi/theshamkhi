@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋🏻 Hi there! I'm <em>Mohammed Shamkhi</em>
 
 <em>
@@ -5,6 +7,8 @@ Welcome to my GitHub profile!
 I’m an <strong>Applied Mathematics graduate</strong> with a strong <strong>programming background</strong>.  
 By blending <strong>mathematical expertise</strong>, <strong>coding skills</strong>, and <strong>creativity</strong>, I strive to craft <strong>unique and engaging works of art</strong> through code.
 </em>
+
+</div>
 
 ---
 
