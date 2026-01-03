@@ -17,7 +17,7 @@ By blending <strong>mathematical expertise</strong>, <strong>coding skills</stro
 ### 💻 <strong>Software Development</strong>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,php,laravel,java,spring,mysql,postgres,angular,hibernate,maven,docker,postman,git,github,figma,html,css,javascript,react,bootstrap,tailwind,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,django,php,laravel,java,spring,mysql,postgres,angular,hibernate,maven,docker,jenkins,postman,git,github,figma,html,css,javascript,react,bootstrap,tailwind,c,cpp" />
   </a>
 </p>
 
