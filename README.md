@@ -2,32 +2,61 @@
 
 # 👋🏻 Hi there! I'm <em>Mohammed Shamkhi</em>
 
-<em>
-Welcome to my GitHub profile!  
-I’m an <strong>Applied Mathematics graduate</strong> with a strong <strong>programming background</strong>.  
-By blending <strong>mathematical expertise</strong>, <strong>coding skills</strong>, and <strong>creativity</strong>, I strive to craft <strong>unique and engaging works of art</strong> through code.
-</em>
+<p align="center">
+  <em>
+    I’m a <strong>Software Developer</strong> with a background in <strong>Applied Mathematics</strong> — a combination that shapes my approach to engineering.
+    <br/>
+    I don’t just write code; I design systems to be modeled, optimized, and scaled.
+  </em>
+</p>
 
 </div>
 
 ---
 
-## 🐙 What I Bring to the Table
+## 🧠 Engineering Philosophy
 
-### 💻 <strong>Software Development</strong>
+> _How I think, design, and build software._
+
+- **📐 Analytical Rigor**  
+  Mathematical thinking helps me decompose complex architectures and design efficient, high-performance systems.
+
+- **🧹 Quality First**  
+  Strong advocate of **Clean Code**, **SOLID principles**, and **TDD** for long-term maintainability.
+
+- **🔁 Full Lifecycle Thinking**  
+  From frontend logic to backend services and **CI/CD pipelines**, I design with the whole system in mind.
+
+- **🔐 DevSecOps Mindset**  
+  Security, automation, and observability are built-in — never bolted on.
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,php,laravel,java,spring,angular,hibernate,maven,docker,jenkins,githubactions,aws,postman,mysql,postgres,mongodb,git,github,figma,html,css,javascript,react,bootstrap,tailwind,c,cpp" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,angular,react,javascript,html,css,tailwind,bootstrap,python,django,php,laravel,docker,jenkins,githubactions,aws,mysql,postgres,mongodb,git,github,postman,figma,c,cpp" />
 </p>
 
-### 📐 <strong>Mathematical Expertise</strong>
-- 🧠 <strong>Problem Solving:</strong> <em>Efficient solutions to complex problems.</em>  
-- 📊 <strong>Analytical Thinking:</strong> <em>Data, algorithms, and insights.</em>  
-- 🔍 <strong>Deductive Reasoning:</strong> <em>From observations to conclusions.</em>
+---
+
+## 📐 Mathematical Strengths
+
+- 🧠 **Problem Solving** — turning complexity into clarity  
+- 📊 **Analytical Thinking** — algorithms, optimization, and data-driven decisions  
+- 🔍 **Deductive Reasoning** — structured logic from assumptions to conclusions  
+
+---
+
+## 📬 Get in Touch
+
+<p align="center">
+  📧 <strong>Email:</strong> <a href="mailto:theshamkhi1@gmail.com">theshamkhi1@gmail.com</a>  
+  🌐 <strong>Portfolio:</strong> <a href="https://theshamkhi.vercel.app">theshamkhi.vercel.app</a>
+</p>
 
 ---
 
 <p align="center">
-  <em>Thanks for stopping by! Feel free to explore my repositories.</em>
+  <em>Thanks for stopping by — feel free to explore my repositories!</em>
 </p>
